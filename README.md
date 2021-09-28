@@ -12,7 +12,7 @@ This is a simple library system created using Python with the following function
 
 This system applies structured programming approach.
 
-## Tech Stack
+## Tools
 1. Python 3.7
 
 ## Usage
