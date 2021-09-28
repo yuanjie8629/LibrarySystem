@@ -29,7 +29,7 @@ No testing has been performed.
 ## Previews
 1. Login
 <img src="previews/Login.png">
-3. Main Menu
+2. Main Menu
 <img src="previews/MainMenu.png">
 3. Search Book
 <img src="previews/SearchBook.png">
