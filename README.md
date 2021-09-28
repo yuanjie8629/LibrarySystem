@@ -24,7 +24,7 @@ username: system
 password: root
 
 ## Test
-No testing has been performed.
+Manual testing has been performed.
 
 ## Preview
 1. Login <br> <img src="previews/Login.png"><br><br>
