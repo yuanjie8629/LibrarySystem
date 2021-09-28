@@ -1,0 +1,20 @@
+1|1903214|Anthea Chin|Student|2020-05-31|2
+2|1903304|Tan En Xi|Student|2020-05-31|0
+3|1903433|Song Wen Jing|Student|2020-05-31|0
+4|1903014|Ting Qiao Thong|Student|2020-05-31|0
+5|1904299|Shanmithaa A/P Nagalingam|Student|2023-05-31|0
+6|1800200|Aaron Tan Wei Ren|Staff|2025-05-31|0
+7|1709667|Wong Zhi Ying|Staff|2026-05-31|1
+8|1809064|Yong Yuan Lin|Student|2024-05-31|0
+9|1605678|Ngoi Yi Wen|Student|2021-05-31|0
+10|1608968|Lean Kah Liang|Staff|2022-05-31|1
+11|1900820|Ning Sheng Yong|Staff|2021-05-31|0
+12|1609820|Kelvin Kee Ming Ern|Student|2021-05-31|0
+13|1908890|Abigail Tan|Student|2024-05-31|3
+14|1909999|Zhang Jing Fong|Student|2021-05-31|0
+15|1900334|Peng Pei Zhi|Staff|2026-05-31|0
+16|1808320|Vincent Law Wee Seng|Student|2023-05-31|5
+17|1720820|Raanana Lee Na|Student|2023-05-31|0
+18|1810820|Ong Bee Lee|Student|2024-05-31|0
+19|1600820|Ning Kah Kwai|Student|2020-05-31|0
+20|1603620|Payton Yang Yong Hui|Student|2020-05-31|0

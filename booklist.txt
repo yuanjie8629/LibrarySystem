@@ -1,0 +1,20 @@
+1|U000053356|QD151.5.S57 1999|9780323478816|Inorganic Chemistry                                                |D.F. Shriver,P.W. Atkins                          |2
+2|U000104026|QA39.3.W66 2008|9780262033848|Mathematics                                                        |Wong Tech Sing                                    |3
+3|U000053049|QA808.8.S65 1995|9780141335391|Mechanics                                                          |Solomon,R.C.                                      |1
+4|U000053039|QC32.2.B66 2004|9789834331337|Physics                                                            |Graham Booth                                      |2
+5|U000012417|QH308.2.C36 2002|9780552160896|Biology                                                            |Campbell,Neil A.                                  |1
+6|U000263770|HF5625.15.S78 2014|9780552890896|Accounting Ethics                                                  |Iris Struat,Bruce Struat,Lars J.T.Pedersen        |3
+7|U000116197|HF5635.A233 1994|9780241334140|Accounting for Business:Fundamental Principles and Practice        |Stephen Marley                                    |2
+8|U000301983|NK2116.4.B68 2017|9781407109367|Programming & Research:Skills and Techniques for Interior Designers|Botti-Dalitsky,Rose Mary                          |1
+9|U000153269|Q125.4.L38 1977|9781444707861|Progress and its Problems Towards a Theory of Scientific Growth    |Larry Laudan                                      |1
+10|U000226169|QA76.76.C672K45 2012|9780340919408|Programming 2D Games                                               |Kelly,Charles                                     |2
+11|U000170315|QA76.625.V55 2011|9781785287343|Programming Amazon EC2                                             |Vliet,Jurg van                                    |4
+12|U000291573|QA76.73.C153R63 2014|9781783558483|Programming Abstractions in C++                                    |Roberts,Eric                                      |2
+13|U000195903|NA1309.A6B3713 1992|9781137031204|Moorish Architecture in Andalusia                                  |Marianne Barrucand,Achim Bednorz                  |3
+14|U000027700|QA76.76.D47F88 2002|9781592238491|Quality Software Project Management                                |Robert T. Futrell,Donald F. Shafer,Linda I. Shafer|1
+15|U000144456|TK2960.1.R43 2010|9780132350884|Science & Technology of Photovoltaics                              |P. Jayarama Reddy                                 |2
+16|U000304676|QA76.73.P98B45 2018|9780330544412|Get Programming:Learn to Code with Python                          |Ana Bell                                          |2
+17|U000124333|QA76.76.C672D393 2010|9780755389919|C++ Projects:Programming with Text-based Games                     |Michael Dawson,D.S.Malik                          |1
+18|U000138356|TA480.T54J67 2006|9780425240336|Titanium Alloys:an Atlas of Structures and Fracture Features       |Vydehi Arun Joshi                                 |1
+19|U000308354|TA177.4.S85 2012|9780340992586|Engineering Economy                                                |William G.Sullivan,Elin M.Wicks,C.Patrick Koelling|1
+20|U000033422|TA357.6.C76 2005|9780316273497|Engineering Fluid Mechanics                                        |Clayton T. Crowe,Donald F. Elger,John A. Roberson |0
