@@ -26,7 +26,7 @@ password: root
 ## Test
 No testing has been performed.
 
-## Previews
+## Preview
 1. Login <br> <img src="previews/Login.png">
 2. Main Menu <br> <img src="previews/MainMenu.png">
 3. Search Book <br> <img src="previews/SearchBook.png">
