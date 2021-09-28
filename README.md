@@ -27,11 +27,11 @@ password: root
 No testing has been performed.
 
 ## Preview
-1. Login <br> <img src="previews/Login.png">
-2. Main Menu <br> <img src="previews/MainMenu.png">
-3. Search Book <br> <img src="previews/SearchBook.png">
-4. Check Out Book <br> <img src="previews/CheckIn.png">
-5. Check In Book <br> <img src="previews/CheckOut.png">
-6. Account & Membership Maintenance <br> <img src="previews/AccountMembershipMaintenance.png">
-7. Book Management <br> <img src="previews/BookManagement.png">
-8. Check In & Check Out Records <br> <img src="previews/CheckInOutRecord.png">
+1. Login <br> <img src="previews/Login.png"><br><br>
+2. Main Menu <br> <img src="previews/MainMenu.png"><br><br>
+3. Search Book <br> <img src="previews/SearchBook.png"><br><br>
+4. Check Out Book <br> <img src="previews/CheckIn.png"><br><br>
+5. Check In Book <br> <img src="previews/CheckOut.png"><br><br>
+6. Account & Membership Maintenance <br> <img src="previews/AccountMembershipMaintenance.png"><br><br>
+7. Book Management <br> <img src="previews/BookManagement.png"><br><br>
+8. Check In & Check Out Records <br> <img src="previews/CheckInOutRecord.png"><br><br>
