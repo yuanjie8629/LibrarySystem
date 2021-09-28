@@ -17,8 +17,7 @@ This system applies structured programming approach.
 
 ## Usage
 Import the files into the project.
-Run the following command:
-`python -u "Library-system.py"`
+Run the project with 
 
 Enter the system using username and password below:
 username: system
@@ -28,19 +27,19 @@ password: root
 No testing has been performed.
 
 ## Previews
-1. Login<br>
-![Login](previews/Login.png)
-2. Main Menu<br>
-![MainMenu](previews/MainMenu.png)
-3. Search Book<br>
-![SearchBook](previews/SearchBook.png)
-4. Check Out Book<br>
-![CheckIn](previews/CheckIn.png)
-6. Check In Book<br>
-![CheckOut](previews/CheckOut.png)
-7. Account & Membership Maintenance<br>
-![AccountMembershipMaintenance](previews/AccountMembershipMaintenance.png)
-8. Book Management<br>
-![BookManagement](previews/BookManagement.png)
-9. Check In & Check Out Records<br>
-![CheckInOutRecord](previews/CheckInOutRecord.png)
+1. Login
+<img src="previews/Login.png">
+3. Main Menu
+<img src="previews/MainMenu.png">
+3. Search Book
+<img src="previews/SearchBook.png">
+4. Check Out Book
+<img src="previews/CheckIn.png">
+6. Check In Book
+<img src="previews/CheckOut.png">
+7. Account & Membership Maintenance
+<img src="previews/AccountMembershipMaintenance.png">
+8. Book Management
+<img src="previews/BookManagement.png">
+9. Check In & Check Out Records
+<img src="previews/CheckInOutRecord.png">
