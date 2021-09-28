@@ -28,19 +28,19 @@ password: root
 No testing has been performed.
 
 ## Previews
-1. Login
+1. Login<br>
 ![Login](previews/Login.png)
-2. Main Menu
+2. Main Menu<br>
 ![MainMenu](previews/MainMenu.png)
-3. Search Book
+3. Search Book<br>
 ![SearchBook](previews/SearchBook.png)
-4. Check Out Book
+4. Check Out Book<br>
 ![CheckIn](previews/CheckIn.png)
-6. Check In Book
+6. Check In Book<br>
 ![CheckOut](previews/CheckOut.png)
-7. Account & Membership Maintenance
+7. Account & Membership Maintenance<br>
 ![AccountMembershipMaintenance](previews/AccountMembershipMaintenance.png)
-8. Book Management
+8. Book Management<br>
 ![BookManagement](previews/BookManagement.png)
-9. Check In & Check Out Records
+9. Check In & Check Out Records<br>
 ![CheckInOutRecord](previews/CheckInOutRecord.png)
