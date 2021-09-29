@@ -16,8 +16,8 @@ This system applies structured programming approach.
 1. Python 3.7
 
 ## Usage
-Import the files into the project.
-Run the project with 
+Import the files into the project.<br>
+Run the project with Python compiler.
 
 Enter the system using username and password below:
 username: system
