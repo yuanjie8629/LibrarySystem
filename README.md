@@ -19,8 +19,8 @@ This system applies structured programming approach.
 Import the files into the project.<br>
 Run the project with Python compiler.
 
-Enter the system using username and password below:
-username: system
+Enter the system using username and password below:<br>
+username: system<br>
 password: root
 
 ## Test
