@@ -1,7 +1,7 @@
 # LibrarySystem
 
 ## Overview
-This is a simple library system created using Python with the following functions:
+This is a simple console-based library system created using Python with the following functions:
 1. View Book List
 2. Search Book
 3. Check Out (Borrow) Book
